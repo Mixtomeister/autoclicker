@@ -8,8 +8,17 @@ Dependencies:
 
 Install and run:
 
-`~$ python -m virtualenv .venv`
+- Create a virtualenv
+```
+~$ python -m virtualenv .venv
+```
 
-`~$ source .venv/bin/activate`
+- Activate virtualenv
+```
+~$ source .venv/bin/activate
+```
 
-`(venv) ~$ python autoclicker.py`
+- Run script
+```
+(venv) ~$ python autoclicker.py
+```
